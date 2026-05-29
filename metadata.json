@@ -1,0 +1,6 @@
+{
+  "name": "Committee Manager",
+  "description": "Manage rotating savings and credit association (ROSCA) groups, track monthly contributions, and run automated digital lucky draws with transaction timelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
